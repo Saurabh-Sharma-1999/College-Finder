@@ -6,6 +6,7 @@ This project is a simple web application that allows users to get information ab
  
  <img src="GetCollege1.png" alt="Project page">
  <img src="GetCollege2.png" alt="Project page">
+ <img src="GetCollege3.png" alt="Project page">
 
 ## Table of Contents
 
